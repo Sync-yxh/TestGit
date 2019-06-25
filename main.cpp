@@ -28,6 +28,7 @@ vector<int> postorderTraversal(TreeNode* root) {
             stk.pop();
         }
     }
+    //whu,yxh
     return result;
     //new line，change line
     //seconde line
