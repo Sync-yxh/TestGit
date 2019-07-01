@@ -12,5 +12,7 @@ int main()
 	int b = 1;
 	//new line remote
 	string y;
+	//new line local
+	string x;
 	return 1;
 }
