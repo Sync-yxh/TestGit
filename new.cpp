@@ -8,5 +8,7 @@ int main()
 	int a = 1;
 	//remote change 2
 	int d = 2;
+	//local change 2
+	int b = 1;
 	return 1;
 }
