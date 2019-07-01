@@ -10,5 +10,7 @@ int main()
 	int d = 2;
 	//local change 2
 	int b = 1;
+	//new line remote
+	string y;
 	return 1;
 }
